@@ -1,0 +1,4 @@
+C:\Users\KingGod\Downloads\Relis\appsettings.Development.json
+C:\Users\KingGod\Downloads\Relis\appsettings.json
+C:\Users\KingGod\Downloads\Relis\API.pdb
+C:\Users\KingGod\Downloads\Relis\API.exe
